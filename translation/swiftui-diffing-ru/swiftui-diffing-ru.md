@@ -1,4 +1,4 @@
-https://rensbr.eu/blog/swiftui-diffing/
+[Original Article](https://rensbr.eu/blog/swiftui-diffing/)
 
 # Алгоритм сравнения в SwiftUI
 
