@@ -57,7 +57,7 @@
 В коде, [`View`](https://developer.apple.com/documentation/swiftui/view) определяется протоколом, для которого единственное требование — это наличие body, который также является [`View`](https://developer.apple.com/documentation/swiftui/view).
 
 ```swift
-protocol [`View`](https://developer.apple.com/documentation/swiftui/view) {
+protocol View {
     associatedtype Body: View
     var body: Body { get }
 }
