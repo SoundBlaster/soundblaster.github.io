@@ -7,6 +7,10 @@ My name is Egor, I'm a developer at VK. Here are some materials that I found int
 
 ## [Russian] GPT Retelling of Online Courses
 
+### Sofware Quality Metrics
+
+[Index of lectures](summary/sqm.md)
+
 ### OSBP
 
 Open Source Best Practices (OSBP), a crash course for BSc students of Innopolis University. [Playlist on YouTube](https://www.youtube.com/watch?v=jYeZuaLt7nI&list=PLaIsQH4uc08zjutyoBOtoa6fnxzrCQK2Q)
