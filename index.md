@@ -13,4 +13,4 @@ My name is Egor, I'm a developer at VK. Here are some materials that I found int
 
 ## [Russian] GPT Retelling of videos
 
-1. [Podlodka Podcast #395 | API Design](summary/podlodka-podcast-395-api-design.md)
+1. [Podlodka Podcast #395 - API Design](summary/podlodka-podcast-395-api-design.md)
