@@ -8,7 +8,7 @@ My name is Egor, I'm a developer at VK. Here are some materials that I found int
     1. [Agent Passport](https://github.com/0al-spec/agent-passport)
     2. [Hypercode](https://github.com/0al-spec/Hypercode)
 3. [SpecificationKit](https://github.com/SoundBlaster/SpecificationKit)
-4. [NestedSwiftUIA11y](https://github.com/SoundBlaster/NestedSwiftUIA11y)
+4. [NestedSwiftUIA11y](https://github.com/SoundBlaster/NestedA11yIDs)
 
 ## Translated Articles
 
