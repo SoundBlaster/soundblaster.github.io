@@ -2,6 +2,14 @@
 
 My name is Egor, I'm a developer at VK. Here are some materials that I found interesting and would like to share with you.
 
+## Open Source Projects
+
+1. [0AL - Zero-trust Agents Layer ](https://github.com/0al-spec)
+    1. [Agent Passport](https://github.com/0al-spec/agent-passport)
+    2. [Hypercode](https://github.com/0al-spec/Hypercode)
+3. [SpecificationKit](https://github.com/SoundBlaster/SpecificationKit)
+4. [NestedSwiftUIA11y](https://github.com/SoundBlaster/NestedSwiftUIA11y)
+
 ## Translated Articles
 
 1. [SwiftUI's diffing algorithm, Rens Breur, August 18, 2022](translation/swiftui-diffing-ru/swiftui-diffing-ru.md)
