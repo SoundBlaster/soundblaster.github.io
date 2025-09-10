@@ -7,8 +7,10 @@ My name is Egor, I'm a developer at VK. Here are some materials that I found int
 1. [0AL - Zero-trust Agents Layer ](https://github.com/0al-spec)
     1. [Agent Passport](https://github.com/0al-spec/agent-passport)
     2. [Hypercode](https://github.com/0al-spec/Hypercode)
-3. [SpecificationKit](https://github.com/SoundBlaster/SpecificationKit)
-4. [NestedSwiftUIA11y](https://github.com/SoundBlaster/NestedA11yIDs)
+3. SpecificationKit - a powerful Swift framework that implements the Specification Pattern with modern Swift features including property wrappers, macros, and async/await support.
+    - [Source code](https://github.com/SoundBlaster/SpecificationKit)
+    - [Documentation](https://soundblaster.github.io/SpecificationKit/documentation/specificationkit/specificationkit)
+5. [NestedSwiftUIA11y](https://github.com/SoundBlaster/NestedA11yIDs)
 
 ## Translated Articles
 
