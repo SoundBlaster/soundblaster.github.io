@@ -14,7 +14,7 @@ My name is Egor, I'm a developer at VK. Here are some materials that I found int
 3. SpecificationKit - Swift framework focused on platform-specific integrations of SpecificationCore and product-level specifications.
     - [Source code](https://github.com/SoundBlaster/SpecificationKit)
     - [Documentation](https://soundblaster.github.io/SpecificationKit/documentation/specificationkit)
-4. [SpecificationConfig] - Specifications over Swift Configuration library
+4. SpecificationConfig - Specifications over Swift Configuration library
     - [Source code](https://github.com/SoundBlaster/SpecificationConfig)
     - [Documentation](https://soundblaster.github.io/SpecificationConfig/documentation/specificationconfig)
 5. [NestedSwiftUIA11y](https://github.com/SoundBlaster/NestedA11yIDs)
