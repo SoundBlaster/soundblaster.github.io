@@ -8,18 +8,18 @@ My name is Egor, I'm a developer at VK. Here are some materials that I found int
     1. [Agent Passport](https://github.com/0al-spec/agent-passport)
     2. [Hypercode](https://github.com/0al-spec/Hypercode)
     3. [Hyperprompt](https://github.com/0al-spec/Hyperprompt)
-2. SpecificationCore - a powerful Swift framework that implements the Specification Pattern with modern Swift features including property wrappers, macros, and async/await support.
+2. **SpecificationCore** - a powerful Swift framework that implements the Specification Pattern with modern Swift features including property wrappers, macros, and async/await support.
     - [Source code](https://github.com/SoundBlaster/SpecificationCore)
     - [Documentation](https://soundblaster.github.io/SpecificationCore/documentation/specificationcore)
-3. SpecificationKit - Swift framework focused on platform-specific integrations of SpecificationCore and product-level specifications.
+3. **SpecificationKit** - Swift framework focused on platform-specific integrations of SpecificationCore and product-level specifications.
     - [Source code](https://github.com/SoundBlaster/SpecificationKit)
     - [Documentation](https://soundblaster.github.io/SpecificationKit/documentation/specificationkit)
-4. SpecificationConfig - Specifications over Swift Configuration library
+4. **SpecificationConfig** - Specifications over Swift Configuration library
     - [Source code](https://github.com/SoundBlaster/SpecificationConfig)
     - [Documentation](https://soundblaster.github.io/SpecificationConfig/documentation/specificationconfig)
-5. [NestedSwiftUIA11y](https://github.com/SoundBlaster/NestedA11yIDs)
-6. [ISOInspector](https://github.com/SoundBlaster/ISOInspector) - Complex monorepo with crossplatform ISO BMFF Parser and SwiftUI application
-7. docc2context - DocC to Markdown converter for LLM-readable documentation
+5. [**NestedSwiftUIA11y**](https://github.com/SoundBlaster/NestedA11yIDs)
+6. [**ISOInspector**](https://github.com/SoundBlaster/ISOInspector) - Complex monorepo with crossplatform ISO BMFF Parser and SwiftUI application
+7. **docc2context** - DocC to Markdown converter for LLM-readable documentation
    - [Source code](https://github.com/SoundBlaster/docc2context)
 
 ## Translated Articles
