@@ -19,7 +19,8 @@ My name is Egor, I'm a developer at VK. Here are some materials that I found int
     - [Documentation](https://soundblaster.github.io/SpecificationConfig/documentation/specificationconfig)
 5. [NestedSwiftUIA11y](https://github.com/SoundBlaster/NestedA11yIDs)
 6. [ISOInspector](https://github.com/SoundBlaster/ISOInspector) - Complex monorepo with crossplatform ISO BMFF Parser and SwiftUI application
-7. [docc2context](https://github.com/SoundBlaster/docc2context) - crossplatform DocC-Markdown converter (WIP) 
+7. docc2context - DocC to Markdown converter for LLM-readable documentation
+   - [Source code](https://github.com/SoundBlaster/docc2context)
 
 ## Translated Articles
 
