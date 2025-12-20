@@ -22,6 +22,7 @@ My name is Egor, I'm a developer at VK. Here are some materials that I found int
 7. [**ISOInspector**](https://github.com/SoundBlaster/ISOInspector) - Complex monorepo with crossplatform ISO BMFF Parser and SwiftUI application
 8. **docc2context** - DocC to Markdown converter for LLM-readable documentation
    - [Source code](https://github.com/SoundBlaster/docc2context)
+   - [Documentation](https://soundblaster.github.io/docc2context/documentation/docc2contextcore)
 
 ## Translated Articles
 
