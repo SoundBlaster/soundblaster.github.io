@@ -19,8 +19,10 @@ My name is Egor, I'm a developer at VK. Here are some materials that I found int
     - [Documentation](https://soundblaster.github.io/SpecificationConfig/documentation/specificationconfig)
 5. **NestedSwiftUIA11y** - Execution‑ready, dependency‑aware SPM package that brings nested accessibility identifiers to SwiftUI
    - [Source code](https://github.com/SoundBlaster/NestedA11yIDs) 
-7. [**ISOInspector**](https://github.com/SoundBlaster/ISOInspector) - Complex monorepo with crossplatform ISO BMFF Parser and SwiftUI application
-8. **docc2context** - DocC to Markdown converter for LLM-readable documentation
+7. **ISOInspector** - Complex monorepo with crossplatform ISO BMFF Parser and SwiftUI application
+   - [Source code](https://github.com/SoundBlaster/ISOInspector)
+   - [Documentation](https://soundblaster.github.io/ISOInspector)
+9. **docc2context** - DocC to Markdown converter for LLM-readable documentation
    - [Source code](https://github.com/SoundBlaster/docc2context)
    - [Documentation](https://soundblaster.github.io/docc2context/documentation/docc2contextcore)
 
