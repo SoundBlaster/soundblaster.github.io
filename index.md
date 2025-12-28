@@ -7,7 +7,9 @@ My name is Egor, I'm a developer at VK. Here are some materials that I found int
 1. [0AL - Zero-trust Agents Layer ](https://github.com/0al-spec)
     1. [Agent Passport](https://github.com/0al-spec/agent-passport)
     2. [Hypercode](https://github.com/0al-spec/Hypercode)
-    3. [Hyperprompt](https://github.com/0al-spec/Hyperprompt)
+    3. Hyperprompt
+     - [Source code](https://github.com/0al-spec/Hyperprompt)
+     - [Documentation](https://0al-spec.github.io/Hyperprompt/documentation/cli)
 2. **SpecificationCore** - a powerful Swift framework that implements the Specification Pattern with modern Swift features including property wrappers, macros, and async/await support.
     - [Source code](https://github.com/SoundBlaster/SpecificationCore)
     - [Documentation](https://soundblaster.github.io/SpecificationCore/documentation/specificationcore)
