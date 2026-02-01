@@ -10,6 +10,9 @@ My name is Egor, I'm a developer at VK. Here are some materials that I found int
     3. Hyperprompt
      - [Source code](https://github.com/0al-spec/Hyperprompt)
      - [Documentation](https://0al-spec.github.io/Hyperprompt/documentation/cli)
+    4. AI/LLM Metrics
+     - [Source code](https://github.com/0al-spec/Metrics)
+     - [SIB - Specification-Implementation Balance Paper PDF](https://github.com/0al-spec/Metrics/blob/main/SIB/metrics.pdf)
 2. **SpecificationCore** - a powerful Swift framework that implements the Specification Pattern with modern Swift features including property wrappers, macros, and async/await support.
     - [Source code](https://github.com/SoundBlaster/SpecificationCore)
     - [Documentation](https://soundblaster.github.io/SpecificationCore/documentation/specificationcore)
