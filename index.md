@@ -13,18 +13,21 @@ My name is Egor, I'm a developer at VK. Here are some materials that I found int
     4. AI/LLM Metrics
      - [Source code](https://github.com/0al-spec/Metrics)
      - [SIB - Specification-Implementation Balance Paper PDF](https://github.com/0al-spec/Metrics/blob/main/SIB/metrics.pdf)
-2. **SpecificationCore** - a powerful Swift framework that implements the Specification Pattern with modern Swift features including property wrappers, macros, and async/await support.
+2. **XcodeMCPWrapper** -
+    - [Source code](https://github.com/SoundBlaster/XcodeMCPWrapper)
+    - [Documentation](https://soundblaster.github.io/XcodeMCPWrapper)
+4. **SpecificationCore** - a powerful Swift framework that implements the Specification Pattern with modern Swift features including property wrappers, macros, and async/await support.
     - [Source code](https://github.com/SoundBlaster/SpecificationCore)
     - [Documentation](https://soundblaster.github.io/SpecificationCore/documentation/specificationcore)
-3. **SpecificationKit** - Swift framework focused on platform-specific integrations of SpecificationCore and product-level specifications.
+5. **SpecificationKit** - Swift framework focused on platform-specific integrations of SpecificationCore and product-level specifications.
     - [Source code](https://github.com/SoundBlaster/SpecificationKit)
     - [Documentation](https://soundblaster.github.io/SpecificationKit/documentation/specificationkit)
-4. **SpecificationConfig** - Specifications over Swift Configuration library
+6. **SpecificationConfig** - Specifications over Swift Configuration library
     - [Source code](https://github.com/SoundBlaster/SpecificationConfig)
     - [Documentation](https://soundblaster.github.io/SpecificationConfig/documentation/specificationconfig)
-5. **NestedSwiftUIA11y** - Execution‑ready, dependency‑aware SPM package that brings nested accessibility identifiers to SwiftUI
+7. **NestedSwiftUIA11y** - Execution‑ready, dependency‑aware SPM package that brings nested accessibility identifiers to SwiftUI
    - [Source code](https://github.com/SoundBlaster/NestedA11yIDs) 
-7. **ISOInspector** - Complex monorepo with crossplatform ISO BMFF Parser and SwiftUI application
+8. **ISOInspector** - Complex monorepo with crossplatform ISO BMFF Parser and SwiftUI application
    - [Source code](https://github.com/SoundBlaster/ISOInspector)
    - [Documentation](https://soundblaster.github.io/ISOInspector)
 9. **docc2context** - DocC to Markdown converter for LLM-readable documentation
