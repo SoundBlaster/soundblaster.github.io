@@ -13,7 +13,7 @@ My name is Egor, I'm a developer at VK. Here are some materials that I found int
     4. AI/LLM Metrics
      - [Source code](https://github.com/0al-spec/Metrics)
      - [SIB - Specification-Implementation Balance Paper PDF](https://github.com/0al-spec/Metrics/blob/main/SIB/metrics.pdf)
-2. **XcodeMCPWrapper** -
+2. **XcodeMCPWrapper** - MCP that makes Xcode 26.3's MCP compatible with Cursor and other strict MCP-spec-compliant clients
     - [Source code](https://github.com/SoundBlaster/XcodeMCPWrapper)
     - [Documentation](https://soundblaster.github.io/XcodeMCPWrapper)
 4. **SpecificationCore** - a powerful Swift framework that implements the Specification Pattern with modern Swift features including property wrappers, macros, and async/await support.
