@@ -16,6 +16,8 @@ My name is Egor, I'm a developer at VK. Here are some materials that I found int
 2. **XcodeMCPWrapper** - MCP that makes Xcode 26.3's MCP compatible with Cursor and other strict MCP-spec-compliant clients
     - [Source code](https://github.com/SoundBlaster/XcodeMCPWrapper)
     - [Documentation](https://soundblaster.github.io/XcodeMCPWrapper)
+3. **Flow** - Agentic Workflow
+    - [Source code](https://github.com/SoundBlaster/Flow)
 4. **SpecificationCore** - a powerful Swift framework that implements the Specification Pattern with modern Swift features including property wrappers, macros, and async/await support.
     - [Source code](https://github.com/SoundBlaster/SpecificationCore)
     - [Documentation](https://soundblaster.github.io/SpecificationCore/documentation/specificationcore)
