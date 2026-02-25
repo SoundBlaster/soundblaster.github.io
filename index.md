@@ -1,6 +1,6 @@
 # Hello
 
-My name is Egor, I'm a developer at VK. Here are some materials that I found interesting and would like to share with you.
+My name is [Egor Merkushev](https://vk.com/objc), I'm an iOS developer since 2011. Here are some materials that I found interesting and would like to share with you.
 
 ## Open Source Projects
 
