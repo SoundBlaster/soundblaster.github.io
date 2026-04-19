@@ -7,7 +7,8 @@ My name is [Egor Merkushev](https://vk.com/objc), I'm an iOS developer since 201
 1. [0AL - Zero-trust Agents Layer ](https://github.com/0al-spec)
     1. [Agent Passport](https://github.com/0al-spec/agent-passport)
     2. [Hypercode](https://github.com/0al-spec/Hypercode)
-    3. Hyperprompt
+    3. [SpecGraph](https://0al-spec.github.io/SpecGraph/)
+    4. Hyperprompt
      - [Source code](https://github.com/0al-spec/Hyperprompt)
      - [Documentation](https://0al-spec.github.io/Hyperprompt/documentation/cli)
     4. AI/LLM Metrics
