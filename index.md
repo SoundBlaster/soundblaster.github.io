@@ -7,11 +7,18 @@ My name is [Egor Merkushev](https://vk.com/objc), I'm an iOS developer since 201
 1. [0AL - Zero-trust Agents Layer ](https://github.com/0al-spec)
     1. [Agent Passport](https://github.com/0al-spec/agent-passport)
     2. [Hypercode](https://github.com/0al-spec/Hypercode)
-    3. [SpecGraph](https://0al-spec.github.io/SpecGraph/)
-    4. Hyperprompt
+    3. SpecGraph - Intent-Driven Development
+     - [Source code](https://0al-spec.github.io/SpecGraph)
+     - [Landing Page](https://specgraph.tech)
+    4. SpecPM - Intent-level dependency management
+     - [Source code](https://0al-spec.github.io/SpecPM)
+     - [Landing Page](https://specpm.dev)
+     - [Documentation](https://0al-spec.github.io/SpecPM/documentation/specpm/)
+    6. https://0al-spec.github.io/SpecPM/documentation/specpm/
+    7. Hyperprompt
      - [Source code](https://github.com/0al-spec/Hyperprompt)
      - [Documentation](https://0al-spec.github.io/Hyperprompt/documentation/cli)
-    4. AI/LLM Metrics
+    6. AI/LLM Metrics
      - [Source code](https://github.com/0al-spec/Metrics)
      - [SIB - Specification-Implementation Balance Paper PDF](https://github.com/0al-spec/Metrics/blob/main/SIB/metrics.pdf)
 2. **XcodeMCPWrapper** - MCP that makes Xcode 26.3's MCP compatible with Cursor and other strict MCP-spec-compliant clients
