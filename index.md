@@ -14,11 +14,10 @@ My name is [Egor Merkushev](https://vk.com/objc), I'm an iOS developer since 201
      - [Source code](https://0al-spec.github.io/SpecPM)
      - [Landing Page](https://specpm.dev)
      - [Documentation](https://0al-spec.github.io/SpecPM/documentation/specpm/)
-    6. https://0al-spec.github.io/SpecPM/documentation/specpm/
-    7. Hyperprompt
+    5. Hyperprompt - Utility for reusable prompts
      - [Source code](https://github.com/0al-spec/Hyperprompt)
      - [Documentation](https://0al-spec.github.io/Hyperprompt/documentation/cli)
-    6. AI/LLM Metrics
+    6. AI/LLM Metrics - Measure AI Agent work
      - [Source code](https://github.com/0al-spec/Metrics)
      - [SIB - Specification-Implementation Balance Paper PDF](https://github.com/0al-spec/Metrics/blob/main/SIB/metrics.pdf)
 2. **XcodeMCPWrapper** - MCP that makes Xcode 26.3's MCP compatible with Cursor and other strict MCP-spec-compliant clients
