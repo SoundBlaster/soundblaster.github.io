@@ -8,10 +8,10 @@ My name is [Egor Merkushev](https://vk.com/objc), I'm an iOS developer since 201
     1. [Agent Passport](https://github.com/0al-spec/agent-passport)
     2. [Hypercode](https://github.com/0al-spec/Hypercode)
     3. SpecGraph - Intent-Driven Development
-     - [Source code](https://0al-spec.github.io/SpecGraph)
+     - [Source code](https://github.com/0al-spec/SpecGraph)
      - [Landing Page](https://specgraph.tech)
     4. SpecPM - Intent-level dependency management
-     - [Source code](https://0al-spec.github.io/SpecPM)
+     - [Source code](https://github.com/0al-spec/SpecPM)
      - [Landing Page](https://specpm.dev)
      - [Documentation](https://0al-spec.github.io/SpecPM/documentation/specpm/)
     5. Hyperprompt - Utility for reusable prompts
